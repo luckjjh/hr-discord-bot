@@ -1,15 +1,5 @@
 const {
-  Client,
-  Events,
-  GatewayIntentBits,
-  GuildMemberManager,
-  GuildMember,
-  Guild,
-  Partials,
-  EmbedBuilder,
   ActionRowBuilder,
-  ButtonBuilder,
-  ButtonStyle,
   StringSelectMenuOptionBuilder,
   StringSelectMenuBuilder,
 } = require("discord.js");
